@@ -9,3 +9,5 @@ Hey Pete, have you thought of coming up with a different app that's similar to 1
 
 [Adding a join table](docs/2_ADD_SECOND_TABLE.md)
 [Adding JPA](docs/3_ADD_JPA.md)
+[Adding User Registration](docs/4_ADD_USER_REGISTRATION.md)
+[Adding Spring Security](docs/5_ADD_SPRING_SECURITY.md)
