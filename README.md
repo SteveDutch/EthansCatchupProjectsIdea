@@ -12,7 +12,7 @@ Hey! Good guess! Pretty much everything we do here would be usable (skills wise)
 - [Shared Resources](docs/00_RESOURCES_SHARED.md)
 - [High Level Objectives](docs/0_ANCILLARY_OBJECTIVES.md)
 
-## Then, if we get the main project done, and want more reps:
+## Then, if we get the Main Easiest Project done, and want more reps:
 
 - [Adding a join table](docs/2_ADD_SECOND_TABLE.md)
 - [Adding JPA](docs/3_ADD_JPA.md)
