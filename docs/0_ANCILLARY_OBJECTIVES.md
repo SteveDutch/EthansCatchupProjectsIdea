@@ -21,4 +21,4 @@ We would also like to accomplish each of these objectives by doing these:
 - force coders to make branches and work on separate branches
 - force coders to push up their work as formal Pull Requests
 - learn how to contribute to markdown documents
-- 
+- david made changes here
