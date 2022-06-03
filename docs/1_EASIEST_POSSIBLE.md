@@ -34,4 +34,4 @@ We could learn the absolute basics here without as much confusing stuff.
 
 - starter app like Trevor shows
 - https://www.google.com/search?q=how+to+do+a+pull+request+github&oq=how+to+do+a+pull+reque&aqs=chrome.0.0i512l2j69i57j0i512l7.26822j1j7&sourceid=chrome&ie=UTF-8
-- 
+- I am writing words in this file!
