@@ -1,6 +1,7 @@
 # Planning/Sequence
 
-- database or any persistence
-- permissions or even an idea of a user
-- any REST stuff (just HTML)
-- No local storage either
+- write schema
+- run mavin
+- create 4 endpoints
+- 4 views for the car CRUD
+-
