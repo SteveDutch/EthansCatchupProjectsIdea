@@ -16,3 +16,5 @@ When you have a separate dependent table:
 
 - how are the CRUD views similar?
 - how are the CRUD views different?
+- 
+-
